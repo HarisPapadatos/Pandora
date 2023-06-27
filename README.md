@@ -1,2 +1,2 @@
 # Pandora
-A player versus player game with a few bugs
+A couch play,player versus player topdown shooter game with a few bugs but overall playable
